@@ -1,6 +1,6 @@
-# Template by Bruce Maxwell
+# Theo Satloff
+# Based on a file from Bruce A. Maxwell
 # Spring 2015
-# CS 251 Project 8
 #
 # Classifier class and child definitions
 
