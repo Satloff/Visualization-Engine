@@ -1,6 +1,6 @@
 # Visualization-Engine
 
-basics: 
+##basics: 
 - control+click+drag allows for rotation about any axis
 - command+click+drag allows for zoom
 - bottom bar will display rotation, zoom, and recent activity data
@@ -14,7 +14,7 @@ basics:
   - color selector
 - the left side will display relevant information about a specific point
 
-Run
+##Run
 - 1) run display.py
 - 2) select file>open
 - 3) select either a CSV or a XLSX
@@ -30,5 +30,5 @@ Run
 ![alt_tag](https://raw.githubusercontent.com/Satloff/Visualization-Engine/master/images/Screen%20Shot%202016-04-23%20at%203.05.57%20PM.png)
 ![alt_tag](https://raw.githubusercontent.com/Satloff/Visualization-Engine/master/images/Screen%20Shot%202016-04-23%20at%203.05.55%20PM.png)
 
-Clustering Analysis:
+##Clustering Analysis:
 ![alt_tag](https://raw.githubusercontent.com/Satloff/Visualization-Engine/master/images/Screen%20Shot%202016-04-10%20at%204.13.36%20PM.png)
