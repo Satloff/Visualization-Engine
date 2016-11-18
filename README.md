@@ -27,3 +27,6 @@ Run
   - Naive Bayes
 
 ![alt tag]( https://raw.githubusercontent.com/Satloff/Visualization-Engine/master/images/Screen%20Shot%202016-04-23%20at%203.06.32%20PM.png)
+![alt_tag](https://raw.githubusercontent.com/Satloff/Visualization-Engine/master/images/Screen%20Shot%202016-04-23%20at%203.05.57%20PM.png)
+![alt_tag](https://raw.githubusercontent.com/Satloff/Visualization-Engine/master/images/Screen%20Shot%202016-04-23%20at%203.05.55%20PM.png)
+![alt_tag](https://raw.githubusercontent.com/Satloff/Visualization-Engine/master/images/Screen%20Shot%202016-04-20%20at%208.10.20%20PM.png)
