@@ -1,6 +1,6 @@
-# Bruce A. Maxwell
+# Theo Satloff
+# Based on a file from Bruce A. Maxwell
 # Spring 2015
-# CS 251 Project 7 Clustering
 #
 # Executes PCA on the UCI activity recognition data set
 # Identifies the # of eigenvectors required to represent at least 90% of the variation
