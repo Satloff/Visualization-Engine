@@ -25,3 +25,5 @@ Run
   - K-Means Clustering
   - KNN
   - Naive Bayes
+
+![alt tag]( https://raw.githubusercontent.com/Satloff/Visualization-Engine/master/images/Screen%20Shot%202016-04-23%20at%203.06.32%20PM.png)
