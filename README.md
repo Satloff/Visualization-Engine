@@ -15,11 +15,11 @@ basics:
 - the left side will display relevant information about a specific point
 
 Run
-1) run display.py
-2) select file>open
-3) select either a CSV or a XLSX
-4) Click on the filename in the file-holder
-5) perform some form of analysis:
+- 1) run display.py
+- 2) select file>open
+- 3) select either a CSV or a XLSX
+- 4) Click on the filename in the file-holder
+- 5) perform some form of analysis:
   - linear regression
   - PCA analysis
   - K-Means Clustering
